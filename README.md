@@ -2,6 +2,8 @@
 
 ---
 
+![Retailytics_Logo_1280x640](https://github.com/user-attachments/assets/65a4f87e-bfbc-41c7-8b63-053bb04a0e4c)
+
 **Retailytics** is a SQL-driven retail analytics project focused on uncovering meaningful insights from transactional sales data. It involves monthly and category-wise sales analysis, identifying high-performing months, and optimizing decision-making through data.
 
 This project showcases the application of structured query language (**SQL**) in conducting end-to-end data analysis within a retail context. Designed to reflect real-world practices employed by data analysts, it encompasses the creation and management of a relational retail sales database, the execution of **exploratory data analysis (EDA)**, and the derivation of actionable insights through well-structured SQL queries.
